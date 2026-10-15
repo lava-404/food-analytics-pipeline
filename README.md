@@ -307,3 +307,6 @@ Check whether another process is using port `9092` or `8501`, and stop that proc
 **Generate → Queue → Consume → Validate → Store → Analyze → Visualize**
 
 This prototype demonstrates real-time event ingestion, message queuing, data quality validation, persistent storage, SQL analytics, and dashboard visualization.
+
+<img width="3276" height="1748" alt="image" src="https://github.com/user-attachments/assets/695c39fb-90d3-44e1-b7ff-38bbc2f0379f" />
+
